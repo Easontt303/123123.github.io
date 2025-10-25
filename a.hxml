@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>关于编程的网站</title>
+  <meta charset="UTF-8">
+  <meta html-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+    <div onmouseover="this.style.backgroundColor='yellow'" onmouseout="this.style.backgroundColor=''">鼠标悬停变色</div>
+    
+
+    <style>
+        body {
+            background: linear-gradient(to bottom, pink, lightblue);
+        }
+    </style>
+
+    
+    <h2>软件安装:</h2>
+
+    <h3>VS Code下载:</h3>
+    <h4>Visual Studio Code:
+               <a href="D:\Program Files\Python\Python38\_game_\Vscode_4_276250.exe" download="python3.8.6" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+    </h4>
+    
+    
+    <h3>pyhon下载:</h3>
+    <h4>python3.8.6:
+               <a href="D:\Program Files\Python\Python38\_game_\python-3.8.6-amd64.exe" download="python3.8.6" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+    </h4>
+    <h4>python3.11.9:
+               <a href="D:\Program Files\Python\Python38\_game_\python-3.11.9-amd64.exe" download="python3.11.9" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+    </h4>
+    <h4>python3.12.4:
+               <a href="D:\Program Files\Python\Python38\_game_\python-3.12.4-amd64.exe" download="python3.12.4" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+               <br>
+               <br>
+    </h4>
+
+    <h3>PyCharm下载:
+    <h4>PyCharm社区版(PyCharm Community):
+               <a href="D:\Program Files\Python\Python38\_game_\pycharm社区版_2_10051811.exe" download="pycharm社区版_2_10051811" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+    </h4>
+    <h4>PyCharm专业版(PyCharm Professiona):
+               <a href="D:\Program Files\Python\Python38\_game_\Pycharm_Setup_360.exe" download="Pycharm_Setup_360" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+               <br>
+               <br>
+    </h4>
+
+    
+    <h3>scratch下载</h3>
+    <h4>scratch_3.29.1:
+               <a href="D:\Program Files\Python\Python38\_game_\jssetup_1900014060_9510092_68616f2e3336302e636e2f3f7931303133__0731.exe" download="jssetup_1900014060_9510092_68616f2e3336302e636e2f3f7931303133__0731.exe" style="background-color: blue; color: white; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-size: 15;">
+                   安装
+               </a>
+               <br>
+               <br>
+    </h4>
+
+
+    <h2>创作平台:</h2>
+    
+    <button style="border-radius: 10px; width: 100px; height: 65px;front-family: Arial;font-size: 18px; background-color: yellow; color: black" onclick="window.open('https://scratch.likebaba.cn/scratch/edit', '_blank')">scratch创作平台</button>
+    <button style="border-radius: 10px; width: 100px; height: 65px;front-family: Arial;font-size: 18px; background-color: blue; color: white" onclick="window.open('http://www.51xiaocheng.com/python/create/#!', '_blank')">python创作平台</button>
+    <button style="border-radius: 10px;width: 100px; height: 65px;front-family: Arial;font-size: 18px; background-color: orange; color: white" onclick="C()">C + +创作平台</button>
+    
+    <script>
+    function C() {
+        alert('暂未开放...');
+    }
+    </script>
+
+    <!--772-->
+    
+
+
+    <h2>游戏:</h2>
+
+        
+    <h3>我的世界起床战争:</h3>
+    <a href="javascript:void(0)" onclick="window.open('https://scratch.likebaba.cn/scratch/play?id=993', '_blank')">
+        <img src="mc.png" alt="mc" />
+    </a>
+    <a href="D:\Program Files\Python\Python38\_game_\我的世界之起床战争.sb3" download="python3.86" style="background-color: blue; color: white; padding: 7px 13px; border-radius: 5px; text-decoration: none;">点击下载游戏</a><br>
+
+    
+    <h3>红黄大战:</h3>
+    <a href="javascript:void(0)" onclick="window.open('https://scratch.likebaba.cn/scratch/play?id=991', '_blank')">
+        <img src="red_yellow.png" alt="红黄大战" />
+    </a>
+    <a href="D:\Program Files\Python\Python38\_game_\红黄大战.sb3" download="python3.86" style="background-color: blue; color: white; padding: 7px 13px; border-radius: 5px; text-decoration: none;">点击下载游戏</a><br>    
+
+    
+    <h3>在上面骑车-最难的游戏:</h3>
+    <a href="javascript:void(0)" onclick="window.open('https://scratch.likebaba.cn/scratch/play?id=815', '_blank')">
+        <img src="bike.png" alt="在上面骑车-最难的游戏" />
+    </a>
+    <a href="D:\Program Files\Python\Python38\_game_\在上面骑车-最难的游戏.sb3" download="在上面骑车-最难的游戏" style="background-color: blue; color: white; padding: 7px 13px; border-radius: 5px; text-decoration: none;">点击下载游戏</a><br>
+
+    
+    <h3>王者荣耀:</h3>
+    <a href="javascript:void(0)" onclick="window.open('https://scratch.likebaba.cn/scratch/play?id=813', '_blank')">
+        <img src="王者.jpg" alt="王者荣耀" />
+    </a>
+    <a href="D:\Program Files\Python\Python38\_game_\王者荣耀.sb3" download="王者荣耀" style="background-color: blue; color: white; padding: 7px 13px; border-radius: 5px; text-decoration: none;">点击下载游戏</a><br>
+
+
+    <h3>我的世界:</h3>
+    <a href="javascript:void(0)" onclick="window.open('https://scratch.likebaba.cn/scratch/play?id=1198', '_blank')">
+        <img src="我的世界.png" alt="" />
+    </a>
+    <a href="D:\Program Files\Python\Python38\_game_\我的世界.sb3" download="我的世界" style="background-color: blue; color: white; padding: 3px 17px; border-radius: 5px; text-decoration: none;">点击下载游戏</a><br>
+
+    <script>
+        function feedback() {
+               window.open('file:///D:/Program%20Files/Python/Python38/_game_/feedback.html','_blank')
+        }
+    </script>
+    <button style="border-radius: 4px;width: 100px; height: 34px;front-family: Arial;font-size: 18px; background-color: orange; color: white" onclick="feedback()">反馈</button>
+
+    <br>
+    <a href="https://scratch.likebaba.cn/">更多游戏</a>
+    <br>
+
+               
+</body>
+
+</html>
+    
